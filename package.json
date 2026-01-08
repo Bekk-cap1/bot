@@ -1,0 +1,14 @@
+﻿{
+  "name": "telegram-quiz-bot",
+  "version": "1.0.0",
+  "description": "Telegram quiz bot with randomized 20-question tests and stats",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
+  }
+}

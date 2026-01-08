@@ -1,0 +1,38 @@
+{
+  "1450973314": {
+    "totalQuizzes": 2,
+    "totalQuestions": 43,
+    "correctAnswers": 15,
+    "incorrectAnswers": 28,
+    "totalPoints": 42,
+    "totalPointsPossible": 123,
+    "perDifficulty": {
+      "1": {
+        "asked": 18,
+        "correct": 8,
+        "points": 16,
+        "pointsPossible": 36
+      },
+      "2": {
+        "asked": 13,
+        "correct": 2,
+        "points": 6,
+        "pointsPossible": 39
+      },
+      "3": {
+        "asked": 12,
+        "correct": 5,
+        "points": 20,
+        "pointsPossible": 48
+      }
+    },
+    "lastQuiz": {
+      "total": 20,
+      "correct": 11,
+      "score": 31,
+      "maxScore": 58,
+      "passed": false,
+      "finishedAt": "2026-01-08T17:17:24.036Z"
+    }
+  }
+}
