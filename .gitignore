@@ -1,0 +1,50 @@
+# ===== Node.js =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===== Environment files =====
+.env
+.env.*
+!.env.example
+
+# ===== Build / cache =====
+dist/
+build/
+.cache/
+.nyc_output/
+coverage/
+*.tsbuildinfo
+
+# ===== Vercel / Render / Deploy =====
+.vercel/
+.vercel-cache/
+render.yaml
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# IntelliJ / WebStorm
+.idea/
+
+# ===== Temporary files =====
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== Local data (если НЕ хочешь хранить статистику в Git) =====
+data/stats.json

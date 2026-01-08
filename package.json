@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "telegram-quiz-bot",
   "version": "1.0.0",
   "description": "Telegram quiz bot with randomized 20-question tests and stats",
